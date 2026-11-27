@@ -36,7 +36,7 @@ redirect_from:
 
 **Assistant Professor (RTD-A)** · 02/2023 – 02/2026  
 [Dipartimento di Informatica (Department of Computer Science)](https://www.uniba.it/it/ricerca/dipartimenti/informatica), [University of Bari Aldo Moro](https://www.uniba.it/), Bari, Italy
-* Researcher on the [FAIR (Future AI Research)](/portfolio/fair/) project, Spoke 6 — Symbiotic AI, funded by NextGenerationEU (PE00000013); focused on negative sampling for knowledge graph embeddings and the improvement of downstream ML tasks.
+* Researcher on the [FAIR (Future AI Research)](/portfolio/fair/) project, Spoke 6.3 — Symbiotic AI, funded by NextGenerationEU (PE00000013); focused on negative sampling for knowledge graph embeddings and the improvement of downstream ML tasks.
 * Designed and delivered PhD-level courses: Big Data Analytics for Text Mining; Symbiotic AI: Combining Knowledge and Reasoning; Social Network and Content Analysis.
 * Co-supervised four master's theses ([National Textile University](https://ntu.edu.pk/), Pakistan) on LLMs, emoji-based UX analysis, semantic relationship extraction, and gamification in learning environments.
 * Collaborative research on network embedding incorporating structural and attribute information, social network analysis of political discourse in conflict scenarios, and layout usability for online scientific documents.
