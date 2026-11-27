@@ -10,7 +10,7 @@ excerpt: '2023–2025 · €305,000<br/>Researcher — representation learning, 
 |---|---|
 | **Period** | 2023–2025 |
 | **Funding** | €305,000 |
-| **Funding programme / agency** | NRRP MUR / NextGenerationEU (PE00000013) — Spoke 6: Symbiotic AI |
+| **Funding programme / agency** | NRRP MUR / NextGenerationEU (PE00000013) — Spoke 6.3: Symbiotic AI |
 | **Host institution** | Department of Computer Science, University of Bari Aldo Moro, Italy |
 | **Role** | Researcher — representation learning, knowledge graph embedding optimisation, negative sampling methods, and social media network analysis. |
 
