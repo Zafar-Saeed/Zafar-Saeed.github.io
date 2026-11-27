@@ -15,4 +15,4 @@ cite: 'Saeed, Z., Abbasi, R. A., Sadaf, A., Razzak, M. I., & Xu, G. (2018). Text
 
 ## Abstract
 
-<!-- ABSTRACT -->
+Huge mounds of data are generated every second on the Internet. People around the globe publish and share information related to real-world events they experience every day. This provides a valuable opportunity to analyze the content of this information to detect real-world happenings, however, it is quite challenging task. In this work, we propose a novel graph-based approach named the Dynamic Heartbeat Graph (DHG) that not only detects the events at an early stage, but also suppresses them in the upcoming adjacent data stream in order to highlight new emerging events. This characteristic makes the proposed method interesting and efficient in finding emerging events and related topics. The experiment results on real-world datasets (i.e. FA Cup Final and Super Tuesday 2012) show a considerable improvement in most cases, while time complexity remains very attractive.
