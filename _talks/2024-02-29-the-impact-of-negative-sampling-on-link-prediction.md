@@ -8,6 +8,7 @@ venue: 'Annual FAIR Workshop, Department of Computer Science, University of Bari
 date: 2024-02-29
 dates: '29 February 2024'
 location: 'Bari, Italy'
+venue_html: '<a href="https://www.fondazione-fair.it/spoke6/">Annual FAIR Workshop</a>, Department of Computer Science, University of Bari'
 ---
 
-**Poster Presentation** at Annual FAIR Workshop, Department of Computer Science, University of Bari, Bari, Italy (29 February 2024).
+**Poster Presentation** at <a href="https://www.fondazione-fair.it/spoke6/">Annual FAIR Workshop</a>, Department of Computer Science, University of Bari, Bari, Italy (29 February 2024).

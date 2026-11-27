@@ -135,7 +135,7 @@ M-Net Technologies, Islamabad, Pakistan
 
 ## Awards and Honours
 
-* **2020 · ECIR 2020 Travel Grant** — 42nd European Conference on Information Retrieval, Lisbon, Portugal. Awarded for paper presentation (CORE rank A conference).
+* **2020 · ECIR 2020 Travel Grant** — [42nd European Conference on Information Retrieval](https://ecir2020.org/), Lisbon, Portugal. Awarded for paper presentation (CORE rank A conference).
 * **2018 · Honorary Appointment** — [Advanced Analytics Institute](https://www.uts.edu.au/research/centres/data-science-institute), UTS, Australia. Awarded for excellence in research as a PhD scholar (February–July 2018).
 * **2007–2008 · Merit Scholarship (MPhil)** — [Department of Computer Science](https://cs.qau.edu.pk/), Quaid-i-Azam University, Islamabad, Pakistan. Awarded on the basis of academic record.
 
@@ -152,7 +152,7 @@ M-Net Technologies, Islamabad, Pakistan
 **Membership**
 * [Australian Computer Society](https://www.acs.org.au/)
 
-## Skills
+## Skills (Technical and Digital Competency)
 
 **Machine Learning & Data Science**
 * scikit-learn · Pandas · NumPy · Matplotlib (Advanced) — standard ML/data analysis stack
@@ -193,5 +193,5 @@ Full list with abstracts: [Publications](/publications/).
 
 {% assign talks = site.talks | sort: "date" | reverse %}
 <ul>{% for post in talks %}
-  <li><a href="{{ base_path }}{{ post.url }}">{{ post.title }}</a> — {{ post.type }}, <i>{{ post.venue }}</i>, {{ post.location }} ({{ post.dates }})</li>
+  <li><a href="{{ base_path }}{{ post.url }}">{{ post.title }}</a> — {{ post.type }}, <i>{{ post.venue_html | default: post.venue }}</i>, {{ post.location }} ({{ post.dates }})</li>
 {% endfor %}</ul>
