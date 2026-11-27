@@ -21,7 +21,7 @@ repository               : "Zafar-Saeed/zafar-saeed.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "avatar-zs.svg"
   name             : "Zafar Saeed"
   pronouns         : # example: "she/her"  
   bio              : "An Academic and Researcher in Social Computing, Machine Learning, and Text Mining"
