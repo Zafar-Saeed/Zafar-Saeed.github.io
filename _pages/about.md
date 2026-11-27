@@ -7,6 +7,24 @@ redirect_from:
   - /about.html
 ---
 
+<div class="zs-hero">
+  <p class="zs-eyebrow">Academic · Researcher · Engineer</p>
+  <h1>Zafar Saeed</h1>
+  <p class="zs-tagline">Researcher in Artificial Intelligence, Data Science, Social Computing and Natural Language Processing.</p>
+  <div class="zs-chips"><span>Social Computing</span><span>Graph Learning</span><span>Recommender Systems</span><span>Human-Centered AI</span><span>NLP</span></div>
+  <div class="zs-actions">
+    <a href="/publications/">Publications</a>
+    <a href="/cv/">View CV</a>
+    <a class="zs-ghost" href="mailto:zaf.saeed@outlook.com">Get in touch</a>
+  </div>
+  <div class="zs-stats">
+    <div><strong>19+</strong><small>peer-reviewed works</small></div>
+    <div><strong>80.5</strong><small>cumulative impact factor</small></div>
+    <div><strong>~5 yrs</strong><small>full-time teaching</small></div>
+    <div><strong>3</strong><small>countries: PK · AU · IT</small></div>
+  </div>
+</div>
+
 Zafar Saeed is an academic and researcher specializing in artificial intelligence, data science, social computing, and natural language processing. He holds a PhD in Computer Science from the [Department of Computer Science](https://cs.qau.edu.pk/), Quaid-i-Azam University, Islamabad, which included a one-year research period at the [Advanced Analytics Institute](https://www.uts.edu.au/research/centres/data-science-institute), University of Technology Sydney (UTS). From February 2023 to February 2026, he held an Assistant Professor (RTD-A) appointment at the [Dipartimento di Informatica](https://www.uniba.it/it/ricerca/dipartimenti/informatica), Università degli Studi di Bari Aldo Moro (Italy), within the Future AI Research (FAIR) project of the NextGenerationEU programme. He has also served as a Software Developer (Analytics) at [Acoem](https://www.acoem.com/en/), Melbourne, Australia, and as an Assistant Professor at the [Faculty of IT](https://ucp.edu.pk/faculty-of-information-technology-and-computer-science/), University of Central Punjab (Pakistan), alongside professional software engineering positions in multinational companies.
 
 His core research interests span four interconnected areas of machine learning: (1) social computing; (2) graph learning; (3) recommender systems; and (4) human-centered AI. He has produced more than 19 peer-reviewed works in prestigious journals, such as [ESWA](https://www.sciencedirect.com/journal/expert-systems-with-applications), [WWW](https://link.springer.com/journal/11280), [IEEE CIM](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=10207), [B&IT](https://www.tandfonline.com/journals/tbit20), [JOGC](https://link.springer.com/journal/10723) and [IJHCS](https://www.sciencedirect.com/journal/international-journal-of-human-computer-studies), and in CORE-ranked conferences, such as PAKDD, ECIR and ICPR, with a cumulative impact factor of 80.5. He has held membership of the [Australian Computer Society](https://www.acs.org.au/) and serves regularly as a reviewer for international journals ([ESWA](https://www.sciencedirect.com/journal/expert-systems-with-applications), [GSIS](https://www.tandfonline.com/journals/tgsi20), [SNAM](https://link.springer.com/journal/13278)).

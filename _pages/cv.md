@@ -126,7 +126,7 @@ M-Net Technologies, Islamabad, Pakistan
 * 2025 · MS thesis: *Adapting Gamification to Develop Computational Thinking in a Learning Environment*
 * 2025 · MS thesis: *Object Detection and Visual Representation in Natural Environments*
 
-## Research Projects and Grants
+## Research Projects and Fellowships
 
 {% assign items = site.portfolio | sort: "date" | reverse %}
 <ul>{% for post in items %}
