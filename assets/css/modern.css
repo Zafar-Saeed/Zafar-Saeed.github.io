@@ -370,3 +370,11 @@ a:visited { color: var(--zs-primary); }
 @media (prefers-reduced-motion: reduce) {
   *, *:before, *:after { animation: none !important; transition: none !important; }
 }
+
+/* ---------- Fixes after visual check ---------- */
+.greedy-nav a,
+.masthead__menu-item a { padding: .4em .7em !important; margin: 0 !important; font-size: .88em; white-space: nowrap; }
+.greedy-nav .visible-links { gap: .15em; }
+.author__urls li { white-space: normal !important; overflow-wrap: anywhere; line-height: 1.45; }
+.author__urls { overflow: hidden; }
+.zs-actions a, .page__content .zs-actions a { text-decoration: none !important; }
