@@ -1,14 +1,18 @@
 ---
 layout: archive
-title: "Portfolio"
+title: "Research Projects and Grants"
 permalink: /portfolio/
 author_profile: true
 ---
 
 {% include base_path %}
 
-
-{% for post in site.portfolio %}
-  {% include archive-single.html %}
+{% assign items = site.portfolio | sort: "date" | reverse %}
+{% for post in items %}
+<div class="list__item">
+  <article class="archive__item">
+    <h2 class="archive__item-title"><a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ post.title }}</a></h2>
+    <p>{{ post.excerpt }}</p>
+  </article>
+</div>
 {% endfor %}
-

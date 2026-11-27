@@ -11,7 +11,7 @@ Courses taught at bachelor's, master's, and doctoral level at universities in Pa
 
 | Course | Semesters | Institution (years) |
 |---|---|---|
-| Big Data Analytics for Text Mining | 1 | University of Central Punjab, Lahore, Pakistan (2021–2022)<br>University of Bari Aldo Moro, Bari, Italy (2023–2024) |
+| Big Data Analytics for Text Mining | 2 | University of Central Punjab, Lahore, Pakistan (2021–2022)<br>University of Bari Aldo Moro, Bari, Italy (2023–2024) |
 | Symbiotic AI: Combining Knowledge and Reasoning | 2 | University of Bari Aldo Moro, Bari, Italy (2023, 2025) |
 | Social Network and Content Analysis | 2 | University of Central Punjab, Lahore, Pakistan (2021–2022)<br>University of Bari Aldo Moro, Bari, Italy (2025) |
 
