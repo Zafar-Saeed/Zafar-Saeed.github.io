@@ -1,5 +1,5 @@
 ---
-title: 'FAIR — Future AI Research Project'
+title: 'Future AI Research (FAIR) Project — Spoke 6.3: Symbiotic AI'
 collection: portfolio
 permalink: /portfolio/fair/
 date: 2023-02-01
